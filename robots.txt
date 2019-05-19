@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://baishuai.github.io/sitemap.xml
+Sitemap: http://baishuai.github.io/sitemap.xml
