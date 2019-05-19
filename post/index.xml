@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hello - A super concise theme for Hugo</title>
+    <link>http://baishuai.github.io/post/</link>
+    <description>Recent content in Posts on Hello - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 08 Jan 2019 13:43:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://baishuai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>使用 mirror 和 hugo 实现 github issue 的博客自动部署</title>
+      <link>http://baishuai.github.io/post/2019-jan-8_1/</link>
+      <pubDate>Tue, 08 Jan 2019 13:43:51 +0000</pubDate>
+      
+      <guid>http://baishuai.github.io/post/2019-jan-8_1/</guid>
+      <description>一直觉得 Issue 是个特别好用的记录工具，看到很多人也直接把 Issue 作为个人博客。 Issue 可以碎片化的记录一些东西，然后在进行整理，最终形成一篇不错的博客内容。</description>
+    </item>
+    
+  </channel>
+</rss>
